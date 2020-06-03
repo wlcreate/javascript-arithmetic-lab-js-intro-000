@@ -23,3 +23,11 @@ function decrement(n) {
   n -= 1
   return n
 }
+
+function makeInt(n) {
+  parseInt('n', 10)
+}
+
+function preserveDecimal(n) {
+  parseFlot('n')
+}
